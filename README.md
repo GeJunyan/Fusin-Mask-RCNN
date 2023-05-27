@@ -8,7 +8,7 @@ This repository procides some key implementation steps of "Research on the visua
 
 2. To generate HHA images, please see https://github.com/charlesCXK/Depth2HHA-python.
 
-# Fusion-Mask-RCNN
+# Implementations of Fusion-Mask-RCNN
 1. Fusion-Mask-RCNN in implemented based on Mask-RCNN. https://github.com/facebookresearch/maskrcnn-benchmark.
 2. To prevent excessive invalid information, we only upload "./data", "./demo", "./modeling". We modified codes in these three folder, and you can find our implementations of
    Fusion-Mask-RCNN in folders.
