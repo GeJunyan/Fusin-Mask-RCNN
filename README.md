@@ -1,4 +1,4 @@
-# Fusin-Mask-RCNN
+# Fusion-Mask-RCNN
 This repository procides some key implementation steps of "Research on the visual robotic grasping strategy in cluttered scenes".
 
 # Dataset preparation
